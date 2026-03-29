@@ -15,7 +15,7 @@ A web-based meme creation tool that allows users to draw, add images, overlay te
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/davidKMJ/meme-maker.git
 cd meme-maker
 
 # Open index.html directly in your browser
